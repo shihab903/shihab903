@@ -38,9 +38,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shihab903&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab903&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=shihab903&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117" height="170"/>
 
 </div>
 
