@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>
-  Hi there, I'm Shihab Ahmed
+  Hi there, I'm Shihab Ahmed or call me OXYGEN, your breathing partner
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 </h1>
 
@@ -16,8 +16,8 @@
 
 ## About Me
 
-- Open source contributor — check out my published projects below
-- Based in Bangladesh
+- Open source contributor, community Moderator, SMM, AMB — check out my published projects below
+- Based in Bangladesh, SOUTH ASIA
 
 ---
 
